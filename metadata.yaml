@@ -1,0 +1,31 @@
+_repo: Ye-antient-wrecke1626-b-Loss-of-the-Sparrow-Hawk-in-1626-Remarkable-preservation-and-recent-d__70759
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Crosby, Leander
+    gutenberg_agent_id: '55909'
+    url: http://www.gutenberg.org/2009/agents/55909
+  - agent_name: Livermore, Charles W.
+    gutenberg_agent_id: '55908'
+    url: http://www.gutenberg.org/2009/agents/55908
+description: ''
+gutenberg_issued: '2023-05-14'
+identifiers:
+  gutenberg: '70759'
+language: en
+pgterms:marc904: https://archive.org/details/yeantientwrecke100live/page/n1/mode/2up
+pgterms:marc905: 20220625073516livermore
+pgterms:marc906: '1865'
+pgterms:marc907: US
+production_note: Steve Mattern, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bAlfred A. Mudge & Son, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ye antient wrecke—1626 : $b Loss of the Sparrow-Hawk in 1626. Remarkable preservation
+  and recent discovery of the wreck'
+url: http://www.gutenberg.org/ebooks/70759
