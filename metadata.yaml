@@ -1,5 +1,8 @@
 _repo: Ye-antient-wrecke1626-b-Loss-of-the-Sparrow-Hawk-in-1626-Remarkable-preservation-and-recent-d__70759
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70759-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Crosby, Leander
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55908'
     url: http://www.gutenberg.org/2009/agents/55908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70759#Ye-antient-wrecke1626-b-Loss-of-the-Sparrow-Hawk-in-1626-Remarkable-preservation-and-recent-d_
 gutenberg_issued: '2023-05-14'
 identifiers:
   gutenberg: '70759'
